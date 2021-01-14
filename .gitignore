@@ -36,4 +36,12 @@
 ehthumbs.db
 Thumbs.db
 
-privado/
+privado/*
+
+*.com
+!a.com
+
+logs/*
+!Public.txt
+
+assets/*
